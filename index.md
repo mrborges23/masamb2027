@@ -26,29 +26,17 @@ Further information about previous meetings can be found in the [MASAMB archive]
 
 ## Important dates
 
-| Date | Event |
-|---|---|
-| | Abstract submission opens |
-|  | Abstract deadline |
-|  | Registration opens |
-|  | Conference begins |
-
-## Programme committee
-
-* Rui Borges, Universirty of St Andrews, UK
-* Matteo Fulmagali, Queen Mary 
-* Andreas Futschik, Queen Mary University of London, UK
-* Carolin Kosiol, Universirty of St Andrews, UK
-
-## Local organising committee
-
-Rui Borges, Universirty of St Andrews, UK
-Ioanna Kotari, Vetmeduni Vienna, Austria
-Diogo Ribeiro, Universirty of St Andrews, UK
-Yari Cerruti, Universirty of St Andrews, UK
+| Date | Event                             |
+| ---- | --------------------------------- |
+|      | Abstract submission opens         |
+|      | Registration opens                |
+|      | Abstract submission deadline      |
+|      | Abstract acceptance notifications |
+|      | Registration deadline             |
+|      | Conference begins                 |
 
 ## Venue 
 
-The conference will take place at the School of Mathematics and Statistics at University of St Andrews.
+MASAMB 2027 will take place at the School of Mathematics and Statistics at University of St Andrews.
 
 
