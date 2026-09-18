@@ -2,23 +2,53 @@
 layout: default
 ---
 
-## About me
+# MASAMB 2027
 
-<img src="https://i1.rgstatic.net/ii/profile.image/591035822534666-1517925329445_Q512/Rui_Borges4.jpg" height="250">
+Mathematical and Statistical Aspects of Molecular Biology 2027
 
-I am a lecturer in Statistics at the School of Mathematics and Statistics at the University of St Andrews and a member of the Statistical Medicine and Molecular Biology group. I am fascinated by the evolution of genomic sequences, and my work involves developing theoretical models of sequence evolution that aim to reconcile the population- and species-level processes through which species continuously emerge and diverge. My research also includes developing computational and statistical methods to detect molecular signatures of evolutionary significance from large-scale genomic datasets, which are now commonplace in molecular studies.
+## About MASAMB
 
-Interests:
-* Population genetics
-* Phylogenetics
-* Stochastic processes
-* Bayesian inference
+Bioinformatics and statistical genetics have been the two main themes of the long-running annual MASAMB meetings. Both fields have advanced rapidly in recent years, driven by large-scale genome sequencing projects and the development of high-throughput technologies, including gene-expression microarrays, proteomics, metabolomics and single-cell genomics. The availability of these large and increasingly complex datasets, together with advances in our understanding of molecular and cellular biology, has created exciting opportunities for researchers with strong quantitative backgrounds.
+
+The MASAMB meetings typically bring together around 80–120 participants from a range of disciplines, including mathematics, statistics, computer science, bioinformatics and biology. The meetings provide a friendly and  informal environment for researchers to share ideas, discuss new methods and explore applications across different areas of genomic research. Research students and scientists who are new to the field are particularly welcome, and are encouraged to submit abstracts and take part in the meeting.
+
+Further information about previous meetings can be found in the [MASAMB archive](https://www.ebi.ac.uk/goldman-srv/masamb/).
+
+
+## Likely topics 
+
+* Next Generation Sequencing
+* Population Genetics
 * Bioinformatics
+* Phylogeny and Comparative Genomics
+* Biological Networks
+* Systems Biology
+
+## Important dates
+
+| Date | Event |
+|---|---|
+| | Abstract submission opens |
+|  | Abstract deadline |
+|  | Registration opens |
+|  | Conference begins |
+
+## Programme committee
+
+* Rui Borges, Universirty of St Andrews, UK
+* Matteo Fulmagali, Queen Mary 
+* Andreas Futschik, Queen Mary University of London, UK
+* Carolin Kosiol, Universirty of St Andrews, UK
+
+## Local organising committee
+
+Rui Borges, Universirty of St Andrews, UK
+Ioanna Kotari, Vetmeduni Vienna, Austria
+Diogo Ribeiro, Universirty of St Andrews, UK
+Yari Cerruti, Universirty of St Andrews, UK
+
+## Venue 
+
+The conference will take place at the School of Mathematics and Statistics at University of St Andrews.
 
 
-Contacts:
-
-|<!-- --> | <!-- --> |
-| --- | --- | 
-|**Email** | ruiborges23(at)gmail.com <br/>rb251(at)st-andrews.ac.uk |
-| **Address** | Office 101 <br/>Mathematical Institute <br/>St Andrews KY16 9SS <br/>United Kingdom |
