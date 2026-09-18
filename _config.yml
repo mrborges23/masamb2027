@@ -8,7 +8,7 @@ navigation:
   - title: Registration
     url: registration
   - title: Absctract submission
-    url: abstracts
+    url: abstract
   - title: Programme
     url: programme
   - title: Scientific commitee
