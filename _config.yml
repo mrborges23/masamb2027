@@ -7,7 +7,11 @@ navigation:
     url: /
   - title: Registration
     url: registration
-  - title: Programme
-    url: programme
   - title: Absctract submission
     url: abstracts
+  - title: Programme
+    url: programme
+  - title: Scientific commitee
+    url: sci_commitee
+  - title: Organising commitee
+    url: local_commitee
