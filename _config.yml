@@ -11,6 +11,10 @@ navigation:
     url: abstract
   - title: Programme
     url: programme
+  - title: Venue
+    url: venue
+  - title: Accommodation
+    url: accomodation
   - title: Scientific commitee
     url: sci_commitee
   - title: Organising commitee
