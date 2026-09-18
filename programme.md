@@ -3,9 +3,11 @@ layout: default
 title: Programme
 ---
 
-# Programme
+This is a placeholder and not the definitive programme. 
 
-## Day
+## Programme
+
+### Day 1
 
 | Time | Session |
 |---|---|
@@ -13,5 +15,16 @@ title: Programme
 | 10:00 | Welcome |
 | 10:30 |  |
 | 12:00 | Lunch |
-| 14:00 | Parallel sessions |
+| 14:00 | Talks |
 | 17:00 | Reception |
+
+### Day 2
+
+| Time | Session |
+|---|---|
+| 09:00 |  |
+| 10:00 | |
+| 10:30 |  |
+| 12:00 |  |
+| 14:00 |  |
+| 17:00 |  |
