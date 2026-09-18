@@ -3,21 +3,16 @@ layout: default
 title: Registration
 ---
 
-# Registration
+## Registration
 
-Registration for the conference is now open.
+Registration for the conference did not open yet.
 
-## Fees
+Early registration closes on **xx xx 2027**.
+
+### Fees
 
 | Category | Early | Standard |
-|---|---:|---:|
 | Academic | £ | £ |
 | Student | £ | £ |
 | Other | £2 | £ |
 
-## Register
-
-
-## Deadline
-
-Early registration closes on **1 May 2027**.
