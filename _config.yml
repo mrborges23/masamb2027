@@ -1,0 +1,21 @@
+theme: jekyll-theme-minimal
+title: Rui Borges 
+description: Hello and welcome to my website.
+show_downloads: false
+navigation:
+  - title: Home
+    url: /
+  - title: Education
+    url: education
+  - title: Professional experience
+    url: professional_experience
+  - title: Publications
+    url: publications
+  - title: Teaching
+    url: teaching
+  - title: Software
+    url: software
+  - title: Projects
+    url: projects
+  - title: Positions
+    url: positions
