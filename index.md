@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# MASAMB 2027
-
-Mathematical and Statistical Aspects of Molecular Biology 2027
-
 ## About MASAMB
 
 Bioinformatics and statistical genetics have been the two main themes of the long-running annual MASAMB meetings. Both fields have advanced rapidly in recent years, driven by large-scale genome sequencing projects and the development of high-throughput technologies, including gene-expression microarrays, proteomics, metabolomics and single-cell genomics. The availability of these large and increasingly complex datasets, together with advances in our understanding of molecular and cellular biology, has created exciting opportunities for researchers with strong quantitative backgrounds.
