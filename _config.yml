@@ -6,16 +6,16 @@ navigation:
   - title: Home
     url: /
   - title: Registration
-    url: registration
+    url: /registration
   - title: Absctract submission
-    url: abstract
+    url: /abstract
   - title: Programme
-    url: programme
+    url: /programme
   - title: Venue
-    url: venue
+    url: /venue
   - title: Accommodation
-    url: accommodation
+    url: /accommodation
   - title: Scientific commitee
-    url: sci_commitee
+    url: /sci_commitee
   - title: Organising commitee
-    url: local_commitee
+    url: /local_commitee
