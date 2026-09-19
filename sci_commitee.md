@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Scientific committee
 
 * [Rui Borges, University of St Andrews, UK](https://www.st-andrews.ac.uk/mathematics-statistics/people/rb251/)
