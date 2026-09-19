@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Local organising committee
 
 * Rui Borges, Universirty of St Andrews, UK
